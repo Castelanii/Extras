@@ -1,3 +1,4 @@
+#Esse codigo propõe verificar o maior numero de uma lista e falar se existe alguma combinação de elementos da própia lista que a soma resulte no maior elemento
 def combinacoes(array, x):
   # Função para gerar combinações de tamanho r a partir da sequência
   def helper(inicio, elementos):
