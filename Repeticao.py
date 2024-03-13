@@ -1,3 +1,4 @@
+#Esse codigo propõe achar a palavra com mais letras repetidas dentro de uma string, caso ajam palavras com mesmo numero de letras repetidas, a saida será a primeira delas
 def SearchingChallenge(strParam):
   palavras = strParam.split()
 
